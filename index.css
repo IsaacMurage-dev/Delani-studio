@@ -30,3 +30,20 @@ position: relative;
 .col-lg-3{
 	padding: 10px;
 }
+#partthree{
+	margin-top: 10px;
+	height: 50vh;
+	background-image: url("Assets/c_image.jpg");
+	background-size: cover;
+}
+#message{
+    height:200px;
+    width:600px;
+  }
+#contactus{
+    background-size:cover;
+    text-align: center;
+    padding:20px;
+    margin-top:20px;
+    color:white;
+  }
