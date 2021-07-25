@@ -12,3 +12,11 @@ $(document).ready(function(){
     });
 
 });
+
+// portfolio overlay
+
+$(document).ready(function(){
+    $("#overlay1").hover(function(){
+        
+    })
+})
