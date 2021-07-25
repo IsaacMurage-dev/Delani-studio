@@ -2,6 +2,7 @@
 $(document).ready(function(){
     $("#d1").click(function(){
         $(".d2").toggle()
+
     });
     $("#dev1").click(function(){
         $(".dev2").toggle()
@@ -11,4 +12,3 @@ $(document).ready(function(){
     });
 
 });
-

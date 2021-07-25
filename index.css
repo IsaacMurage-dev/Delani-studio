@@ -55,3 +55,6 @@ position: relative;
 footer{
 	text-align: center;
 }
+#para{
+	display: none;
+}
