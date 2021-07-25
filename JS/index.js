@@ -66,3 +66,15 @@ $(document).ready(function(){
           $("#overlay8").animate({opacity:0},50)
       });
 })
+
+// validation
+
+$("form").submit(function(event){
+    var names=$("#name").val();
+    var emails=$("#email").val();
+    var messages=$("#message").val();
+
+    alert("Hello "+ names + ", " + " thank you for contacting Delani Studio,your message has been well received.");
+
+    event.preventDefault();
+});
