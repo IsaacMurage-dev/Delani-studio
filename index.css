@@ -15,6 +15,9 @@ a{
 #logo{
 position: relative;
 }
+.about1{
+    font-size: larger;
+}
 
 #parttwo{
     background-image: url("Assets/s_image.jpg");
