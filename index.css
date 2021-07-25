@@ -6,6 +6,9 @@
     background-image:url("Assets/h_img.jpg");
     background-size: cover;
 }
+a{
+    font-size: small;
+}
 .row{
     text-align: center;
 }
@@ -68,7 +71,7 @@ footer{
 .grey1{
     position:absolute;
     top:0;
-    left: 15px;
+    left:0;
     opacity: 0;
     width: 15rem;
     height: 10rem;
