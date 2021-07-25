@@ -37,15 +37,14 @@ position: relative;
 	background-size: cover;
 	margin-bottom: 15px;
 }
+
+
 #message{
-    height:200px;
-    width:600px;
+    height:150px;
+    width:500px;
   }
 #contactus{
-    background-size:cover;
     text-align: center;
-    padding:20px;
-    margin-top:20px;
     color:white;
   }
 .socialmedia{
